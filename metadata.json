@@ -1,0 +1,6 @@
+{
+  "name": "Chat por Chamada de Voz",
+  "description": "Aplicativo de conversa por chamada de voz em tempo real com assistente de IA, transcrição simultânea e áudio bidirecional.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
